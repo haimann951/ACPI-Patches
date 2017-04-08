@@ -1,4 +1,6 @@
-[Audio] --> Audio Patches
+[Audio] --> Audio Patches	null.txt
 [Audio] Rename HDAS to HDEF	Audio/HDAS_to_HDEF.txt
-[VoodooI2C] --> VoodooI2C Patches
+[GFX] --> Graphic Patches	null.txt
+[GFX] Disable Nvidia 940MX Asus UX310	GFX/disableNVD_Asus_UX310.txt
+[VoodooI2C] --> VoodooI2C Patches	null.txt
 [VoodooI2C] Fix ELAN1200 _DSM	VoodooI2C/ELAN1200.txt
