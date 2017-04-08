@@ -1,2 +1,4 @@
+[Audio] --> Audio Patches
+[Audio] Rename HDAS to HDEF	Audio/HDAS_to_HDEF.txt
 [VoodooI2C] --> VoodooI2C Patches
 [VoodooI2C] Fix ELAN1200 _DSM	VoodooI2C/ELAN1200.txt
