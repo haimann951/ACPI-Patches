@@ -1,0 +1,4 @@
+# Rename HDAS to HDEF
+# You might have to rename some manually if you get errors.
+into device label HDAS set_label begin HDEF end;
+into method label SBCB code_regex HDAS replaceall_matched begin HDEF end;
